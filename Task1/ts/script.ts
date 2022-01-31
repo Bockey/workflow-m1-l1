@@ -24,7 +24,7 @@ const mixed: (string | number)[] = ["4", 3];
 //Question 4
 //Create an a tuple with the following types: string, string, number.
 
-let tuple: [string, string, number];
+let tuple1: [string, string, number];
 
 
 //Question 5
